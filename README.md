@@ -1,5 +1,4 @@
 # React Carousel
------------------------------
 
 A React-based image carousel
 
